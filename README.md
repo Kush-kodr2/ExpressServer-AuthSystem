@@ -1,4 +1,4 @@
-# Task 7 - Secure User Dashboard
+# Secure User Dashboard
 
 An Express and EJS web application demonstrating:
 
